@@ -20,7 +20,7 @@ tinymce.init({
 ```
 
 ### View
-![aosanimate](https://user-images.githubusercontent.com/43541275/79665888-3ddec380-81be-11ea-82e0-b2e8a5e9c915.jpg)
+![aosanimate](https://user-images.githubusercontent.com/43541275/79668763-cdd13d00-81bf-11ea-8915-b22a246703cb.jpg)
 
 
 ### Page of content
