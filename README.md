@@ -18,8 +18,7 @@ tinymce.init({
 ```
 
 ### View
-
-![alt text](image)
+![aosanimate](https://user-images.githubusercontent.com/43541275/79665888-3ddec380-81be-11ea-82e0-b2e8a5e9c915.jpg)
 
 
 ### Page of content
@@ -32,7 +31,7 @@ tinymce.init({
 </head>
 <body>
 <h1>Tinymce content</h1>
-<img src="image/png" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="0" data-aos-offset="120" data-aos-once="true" data-aos-easing="ease" data-aos-anchor-placement="top-botom">
+<img src="https://user-images.githubusercontent.com/43541275/79665888-3ddec380-81be-11ea-82e0-b2e8a5e9c915.jpg" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="0" data-aos-offset="120" data-aos-once="true" data-aos-easing="ease" data-aos-anchor-placement="top-botom">
 
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
