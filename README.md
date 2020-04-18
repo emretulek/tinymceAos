@@ -25,6 +25,8 @@ tinymce.init({
 
 ### Page of content
 
+You have to add aos library to your created page by editor
+
 ```
 <!DOCTYPE html>
 <html lang="en">
