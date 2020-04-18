@@ -1,6 +1,8 @@
 # tinymceAos
 Tinymce editor aos animation plugin
 
+You can apply of the aos animations to the selected html element.
+
 ### Tinymce 5
 [tinymce 5](https://github.com/tinymce/tinymce)
 
